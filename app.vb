@@ -4,4 +4,5 @@ x = inputBox("Please Enter Your Name")
 
 MsgBox("Hello " & x)
 ' This is a test comment
+'This is another comment
 End sub
